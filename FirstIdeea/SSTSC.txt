@@ -1,0 +1,44 @@
+Smart Safety and Tracking System for Cycling
+
+The main features of the system are:
+1)Phone App
+2)Bike lock
+3)Health bracelet
+4)Bike computer
+5)Key
+
+Solving the problem regarding bike theft and adding an easy to use format for performance readings, regarding the bike and the user.
+
+PHONE APP features:
+- Information overview:
+	The ability to see information regrading: average speed, average BPM, average traveled distance, a map with the current location of the bike. If the bike gets stolen a notification in a form of an alarm is received. The battery level of other components.
+- Control overview:
+	Manually locking and unlocking the bike, setting a destination, activating and deactivating features and alarms, LED pattern control, connecting and disconnecting other devices of the system.
+
+Bike lock features:
+- a motor or a switch for controlling the locking system
+- a small battery
+- a LoRa module for communication with the main microsystem and the phone app
+- an arduino mini/nano for control
+
+Health Bracelet
+- a RFID for unlocking the bike lock
+- a body temperature sensor
+- a pulse sensor
+- a pressure sensor
+- a battery
+- a rapberry pi pico W
+
+Main microsystem:
+- a RFID reader
+- a raspberry pi zero 2 W
+- a battery
+- a gps tracker
+- connection via wires with two tachometer sensors(one for the back wheel and one for paddles) and two RGB LED strips and a temperature sensor for brakes
+- a small LCD
+
+Key:
+- a RFID
+
+
+

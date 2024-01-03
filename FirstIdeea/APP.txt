@@ -1,0 +1,12 @@
+APP:
+Main tab:
+-app settings button
+-map button
+-tutorial
+-led's control button
+-health bracelet button
+-lock button
+-overall informations
+-enable/disable features
+
+Color scheme: black and grey
